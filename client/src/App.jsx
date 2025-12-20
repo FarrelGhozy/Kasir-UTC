@@ -15,7 +15,7 @@ function App() {
             <span className="text-3xl">💻</span>
             <div>
               <h1 className="text-xl font-bold leading-none">Sistem Bengkel UTC</h1>
-              <p className="text-xs text-blue-200">Unit Teknisi Computer</p>
+              <p className="text-xs text-blue-200">Unida Technology Center</p>
             </div>
           </div>
           
