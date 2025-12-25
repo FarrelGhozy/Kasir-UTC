@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🛠️ Sistem Informasi Manajemen Bengkel & Point of Sales (UTC)
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
@@ -9,7 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 > Aplikasi berbasis web untuk manajemen operasional bengkel komputer, mencakup penjualan *sparepart* (Retail), pelacakan servis, manajemen stok inventaris, dan penugasan teknisi.
-```
+
 ---
 
 ## 📋 Daftar Isi
