@@ -68,7 +68,7 @@
 ---
 
 ## 📂 Struktur Project
-
+```
 ```bash
 bengkel-project/
 │
@@ -274,3 +274,4 @@ Proyek ini dibuat untuk memenuhi **Tugas Ujian Akhir Semester (UAS) Basis Data**
 4.  Jika Anda upload ke GitHub, tampilannya akan otomatis rapi dengan badge dan format tabel.
 
 ```
+
