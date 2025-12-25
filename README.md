@@ -9,7 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 > Aplikasi berbasis web untuk manajemen operasional bengkel komputer, mencakup penjualan *sparepart* (Retail), pelacakan servis, manajemen stok inventaris, dan penugasan teknisi.
-
+```
 ---
 
 ## 📋 Daftar Isi
@@ -68,7 +68,7 @@
 ---
 
 ## 📂 Struktur Project
-```
+
 ```bash
 bengkel-project/
 │
