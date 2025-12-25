@@ -12,13 +12,13 @@ function App() {
       <nav className="bg-gradient-to-r from-blue-700 to-blue-600 text-white shadow-lg sticky top-0 z-50">
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <div className="flex items-center gap-2">
-            <span className="text-3xl"><a href="" ><img src="" alt="" /></a>💻</span>
+            <span className="text-3xl"><a href="./maim.jsx" ><img className= "w-14 h-auto inline-block" src="../public/utc_logo.png" alt="logo" /> </a></span>
             <div>
               <h1 className="text-xl font-bold leading-none">Sistem Bengkel UTC</h1>
               <p className="text-xs text-blue-200">Unida Technology Center</p>
             </div>
           </div>
-          
+
           <div className="flex space-x-1 sm:space-x-4 bg-blue-800/30 p-1 rounded-lg">
             <button 
               onClick={() => setActiveTab('kasir')}
@@ -34,7 +34,7 @@ function App() {
                 activeTab === 'riwayat' ? 'bg-white text-blue-700 shadow' : 'text-blue-100 hover:bg-blue-700'
               }`}
             >
-              Riwayat
+              Transaksi
             </button>
             <button 
               onClick={() => setActiveTab('laporan')}
