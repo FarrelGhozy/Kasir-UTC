@@ -158,3 +158,6 @@ export default api;
 
 *Project Tugas Ujian Akhir Semester (UAS) - UTC*
 
+
+
+npm install lucide-react.
