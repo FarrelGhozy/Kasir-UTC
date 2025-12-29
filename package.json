@@ -12,9 +12,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+<<<<<<< HEAD
     "concurrently": "^9.2.1"
   },
   "dependencies": {
     "lucide-react": "^0.562.0"
+=======
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.11"
+>>>>>>> 2ee47a40d3f5492512d350e904dbbf99ce3490bf
   }
 }
